@@ -19,7 +19,7 @@ Parameters
   --dry-run                          Run script in dry mode
   --progressbar                      Show progressbar
   --recursive                        Delete items in subfolder,
-                                     delete subfolfer itself, if it is empty.
+                                     delete subfoldfer itself, if it is empty.
 
 ```
 
